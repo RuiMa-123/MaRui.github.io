@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![RuiMa-123](https://img.shields.io/badge/RuiMa--123-github-blue?logo=github)](https://github.com/RuiMa-123)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently an undergraduate student majoring in Computer Science and Technology at the School of Computer Science, Shanghai Jiao Tong University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 2242623710[at]qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Computer Science and Technology, Shanghai Jiao Tong University, 2024—Present.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Artificial Intelligence; Computer Architecture
 

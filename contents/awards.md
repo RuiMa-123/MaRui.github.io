@@ -1,13 +1,13 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- National Scholarship (Ministry of Education, China), 2025
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Merit Student of Shanghai Jiao Tong University, 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Outstanding League Member of Shanghai Jiao Tong University, 2024.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+- Second Prize, CCF Graph Computing System Design Challenge, 2025.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- A-level Academic Excellence Scholarship of Shanghai Jiao Tong University, 2025
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- B-level Academic Excellence Scholarship of Shanghai Jiao Tong University, 2024
 
